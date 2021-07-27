@@ -1,0 +1,12 @@
+:root {
+    --primary-color: rgb(255, 92, 92);
+    --on-primary: #ccc;
+    --on-background: rgb(66, 66, 66);    
+    --background: rgb(255, 255, 255);
+}
+
+.theme-switch-wrapper {
+    display: flex;
+    align-items: center;
+    z-index: 100;    
+}

@@ -1,0 +1,35 @@
+.toggle-icon {
+  margin-right: 10px;  
+  display: flex;
+  align-items: center;
+  justify-items: center;
+}
+
+.toggle-text {
+  width: 7rem;
+  text-align: center;
+  font-size: 0.9rem;
+  top: -4px;
+  right: 5px;
+}
+
+.dark {
+  color: var(--primary-color);
+}
+
+.light {
+  color: var(--on-primary);
+}
+
+.mode-icon {
+  width: 30%;
+  height: 30%;
+}
+
+.sun {
+  color: var(--primary-color);
+}
+
+.moon {
+  color: var(--on-primary);
+}
