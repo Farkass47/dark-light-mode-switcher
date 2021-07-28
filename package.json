@@ -1,6 +1,6 @@
 {
   "name": "light-dark-switch",
-  "homepage": "https://farkass47.github.io/dark-light-mode-switcher",
+  "homepage": "http://farkass47.github.io/dark-light-mode-switcher",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
